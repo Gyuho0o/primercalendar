@@ -8164,7 +8164,7 @@ h1, h2, h3, h4, h5,
   background: #2143ac !important; }
 
 .ftco-section {
-  padding: 7em 0; }
+  padding: 6em 0; }
 
 .ftco-no-pt {
   padding-top: 0; }
@@ -8501,8 +8501,8 @@ h1, h2, h3, h4, h5,
   border-color: #7185c3; }
 
 .logo_primer {
-  width: 100px;
-  height: 100px;
+  width: 3.3em;
+  height: 100%;
   border-radius: 5px;
 }
 
